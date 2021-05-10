@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Fabio Cocozza, @fabio1498
 - 👀 I’m interested in Web Design /UI UX Design 
 - 🌱 I’m currently learning UI UX Design on https://www.start2impact.it/
-- 💞️ I’ve achieved Responsive Web Design certification on freeCodeCamp, here-s my profile: https://www.freecodecamp.org/fabiococozza
+- 📜 I’ve achieved Responsive Web Design certification on freeCodeCamp, here-s my profile and certification: https://www.freecodecamp.org/fabiococozza
+- 📜 I’ve achieved Web Design certification on AccademiaDomani
+- 📜 I’ve achieved Basic WordPress certification on AccademiaDomani
+- 📜🇬🇧 I’ve achieved EF Set Certificate earning C1 Advanced Level (
 - 📫 How to reach me: cocozzafabio@outlook.it
 
 <!---
