@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabio Cocozza, @fabio1498
 - 👀 I’m interested in Web Design /UI UX Design 
-- 🌱 I’m currently learning UI UX Design
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning UI UX Design on https://www.start2impact.it/
+- 💞️ I’ve achieved Responsive Web Design certification on freeCodeCamp, here-s my profile: https://www.freecodecamp.org/fabiococozza
 - 📫 How to reach me: cocozzafabio@outlook.it
 
 <!---
