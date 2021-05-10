@@ -4,7 +4,7 @@
 - 📜 I’ve achieved Responsive Web Design certification on freeCodeCamp, here-s my profile and certification: https://www.freecodecamp.org/fabiococozza
 - 📜 I’ve achieved Web Design certification on AccademiaDomani
 - 📜 I’ve achieved Basic WordPress certification on AccademiaDomani
-- 📜🇬🇧 I’ve achieved EF Set Certificate earning C1 Advanced Level (
+- 📜🇬🇧 I’ve achieved EF Set Certificate earning C1 Advanced Level
 - 📫 How to reach me: cocozzafabio@outlook.it
 
 <!---
