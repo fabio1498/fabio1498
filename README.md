@@ -5,7 +5,7 @@
 - 📜 I’ve achieved Web Design certification on AccademiaDomani
 - 📜 I’ve achieved Basic WordPress certification on AccademiaDomani
 - 📜 I’ve achieved Design Thinking certification on IBMI - International Business Management Institute
-- 📜🇬🇧 I’ve achieved EF Set Certificate earning C1 Advanced Level
+- 📜 I’ve achieved EF Set Certificate earning C1 Advanced Level 🇬🇧
 - 🚩 freeCodeCamp profile: https://www.freecodecamp.org/fabiococozza
 - 🚩 CodePen profile: https://codepen.io/Fabio1498
 - 📫 How to reach me: cocozzafabio@outlook.it
