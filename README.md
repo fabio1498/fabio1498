@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **UX/UI Design on Start2Impact.it**
 
-- 👨‍💻 All of my projects are available <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#my-projects" target="blank">here</a> [https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#my-projects](https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#my-projects)
+- 👨‍💻 All of my projects are available <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#my-projects" target="blank">here</a>
 
 - 📫 How to reach me **cocozzafabio@outlook.it**
 
