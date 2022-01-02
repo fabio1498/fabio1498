@@ -13,7 +13,7 @@
 - 📜 I’ve achieved Design Thinking certification on IBMI - International Business Management Institute
 - 📜 I’ve achieved EF Set Certificate earning C1 Advanced Level
 
-- 📄 Know about my experiences [https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#resume](https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#resume)
+- 📄 Know about my experiences <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#resume" target="blank">here</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
