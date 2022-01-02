@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **UX/UI Design on <a href="https://www.start2impact.it/" target="blank">Start2Impact</a>**
 
+- 📖 This is my personal website/portfolio, <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/" target="blank">check it out</a>
+
+- 📄 Know about my experiences <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#resume" target="blank">here</a> 
+
 - 👨‍💻 All of my projects are available <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#my-projects" target="blank">here</a>
 
 - 📫 How to reach me **cocozzafabio@outlook.it**
@@ -13,7 +17,7 @@
 - 📜 I’ve achieved Design Thinking certification on IBMI - International Business Management Institute
 - 📜 I’ve achieved EF Set Certificate earning C1 Advanced Level
 
-- 📄 Know about my experiences <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#resume" target="blank">here</a> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
