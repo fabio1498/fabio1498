@@ -7,11 +7,18 @@
 
 - 📫 How to reach me **cocozzafabio@outlook.it**
 
+- 📜 I’ve achieved Responsive Web Design certification on freeCodeCamp
+- 📜 I’ve achieved Web Design certification on AccademiaDomani
+- 📜 I’ve achieved Basic WordPress certification on AccademiaDomani
+- 📜 I’ve achieved Design Thinking certification on IBMI - International Business Management Institute
+- 📜 I’ve achieved EF Set Certificate earning C1 Advanced Level
+
 - 📄 Know about my experiences [https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#resume](https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/fabio._.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabio._.c" height="30" width="40" /></a>
+<a href="https://instagram.com/fabio._.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabio._.c" height="30" width="40" />Private</a>
+  <a href="https://www.instagram.com/unknown.designer_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unknown.designer_" height="30" width="40" />Design page</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
