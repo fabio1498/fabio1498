@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabio Cocozza</h1>
 <h3 align="center">A passionate designer from Italy.</h3>
 
-- 🌱 I’m currently learning **UX/UI Design on Start2Impact.it**
+- 🌱 I’m currently learning **UX/UI Design on <a href="www.start2impact.it" target="blank">Start2Impact</a>**
 
 - 👨‍💻 All of my projects are available <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#my-projects" target="blank">here</a>
 
