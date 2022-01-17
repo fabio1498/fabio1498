@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fabio Cocozza</h1>
-<h3 align="center">A passionate designer from Italy.</h3>
+<h1>Hi 👋, I'm Fabio Cocozza</h1>
+<h3>A passionate designer from Italy.</h3>
 
 - 🌱 I’m currently learning **UX/UI Design on <a href="https://www.start2impact.it/" target="blank">Start2Impact</a>**
 
