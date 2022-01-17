@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **UX/UI Design on <a href="https://www.start2impact.it/" target="blank">Start2Impact</a>**
 
-- 📖 This is my personal website/portfolio, <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/" target="blank">check it out</a>
+- 📖 This is my personal website/portfolio, <a href="https://fabio1498.github.io/portfolio" target="blank">check it out</a>
 
-- 📄 Know about my experiences <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#resume" target="blank">here</a> 
+- 📄 Know about my experiences <a href="https://fabio1498.github.io/portfolio/#resume" target="blank">here</a> 
 
-- 👨‍💻 All of my projects are available <a href="https://fabio1498.github.io/Progetto_Start2Impact_HTML-CSS/#my-projects" target="blank">here</a>
+- 👨‍💻 All of my projects are available <a href="https://fabio1498.github.io/portfolio/#my-projects" target="blank">here</a>
 
 
 - 📜 I’ve achieved Responsive Web Design certification on freeCodeCamp
